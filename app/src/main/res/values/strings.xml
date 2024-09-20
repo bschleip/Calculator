@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="integer_input">Enter integer input</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUBTRACT</string>
+    <string name="mult">MULTIPLY</string>
+    <string name="div">DIVIDE</string>
+</resources>
